@@ -533,3 +533,32 @@
 2017-05-01 [23:58:09] [Server thread/INFO]: Disabling iProtector v3.1b
 2017-05-01 [23:58:09] [Server thread/INFO]: Unloading level "FamilyEd"
 2017-05-01 [23:58:14] [Server thread/INFO]: Stopping other threads
+2017-05-04 [21:16:56] [Server thread/INFO]: Loading pocketmine.yml...
+2017-05-04 [21:16:56] [Server thread/INFO]: Loading server properties...
+2017-05-04 [21:16:56] [Server thread/INFO]: Selected English (eng) as the base language
+2017-05-04 [21:16:56] [Server thread/INFO]: Starting Minecraft: PE server version v1.0.7.0
+2017-05-04 [21:16:56] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2017-05-04 [21:16:56] [Server thread/INFO]: This server is running PocketMine-MP version 1.6.2dev-65 "Unleashed" (API 3.0.0-ALPHA5)
+2017-05-04 [21:16:56] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2017-05-04 [21:16:56] [Server thread/INFO]: Loading recipes...
+2017-05-04 [21:16:56] [Server thread/INFO]: Loading resource packs...
+2017-05-04 [21:16:56] [Server thread/INFO]: Loading DevTools v1.11.3
+2017-05-04 [21:16:56] [Server thread/INFO]: Enabling DevTools v1.11.3
+2017-05-04 [21:16:56] [Server thread/INFO]: Loading source plugin iProtector v3.1b
+2017-05-04 [21:16:56] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2017-05-04 [21:16:56] [Server thread/INFO]: Preparing level "FamilyEd"
+2017-05-04 [21:16:56] [Server thread/INFO]: Enabling iProtector v3.1b
+2017-05-04 [21:16:56] [Server thread/INFO]: Starting GS4 status listener
+2017-05-04 [21:16:56] [Server thread/INFO]: Setting query port to 19132
+2017-05-04 [21:16:56] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2017-05-04 [21:16:56] [Server thread/INFO]: Default game type: Creative Mode
+2017-05-04 [21:16:56] [Server thread/INFO]: Done (0.302s)! For help, type "help" or "?"
+2017-05-04 [21:24:03] [Server thread/NOTICE]: Player data not found for "mike", creating new profile
+2017-05-04 [21:24:11] [Server thread/INFO]: mike[/192.168.0.12:19132] logged in with entity id 1 at (FamilyEd, 256, 4, 256)
+2017-05-04 [21:24:13] [Server thread/INFO]: mike joined the game
+2017-05-04 [21:25:54] [Server thread/INFO]: mike left the game
+2017-05-04 [21:25:54] [Server thread/INFO]: mike[/192.168.0.12:19132] logged out due to client disconnect
+2017-05-04 [21:27:13] [Server thread/INFO]: Disabling DevTools v1.11.3
+2017-05-04 [21:27:13] [Server thread/INFO]: Disabling iProtector v3.1b
+2017-05-04 [21:27:13] [Server thread/INFO]: Unloading level "FamilyEd"
+2017-05-04 [21:27:18] [Server thread/INFO]: Stopping other threads
