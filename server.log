@@ -588,3 +588,183 @@
 2017-05-05 [10:02:05] [Server thread/INFO]: Disabling DevTools v1.11.3
 2017-05-05 [10:02:05] [Server thread/INFO]: Unloading level "FamilyEd"
 2017-05-05 [10:02:10] [Server thread/INFO]: Stopping other threads
+2017-05-07 [10:36:10] [Server thread/INFO]: Loading pocketmine.yml...
+2017-05-07 [10:36:10] [Server thread/INFO]: Loading server properties...
+2017-05-07 [10:36:10] [Server thread/INFO]: Selected English (eng) as the base language
+2017-05-07 [10:36:10] [Server thread/INFO]: Starting Minecraft: PE server version v1.0.7.0
+2017-05-07 [10:36:10] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2017-05-07 [10:36:10] [Server thread/INFO]: This server is running PocketMine-MP version 1.6.2dev-65 "Unleashed" (API 3.0.0-ALPHA5)
+2017-05-07 [10:36:10] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2017-05-07 [10:36:10] [Server thread/INFO]: Loading recipes...
+2017-05-07 [10:36:10] [Server thread/INFO]: Loading resource packs...
+2017-05-07 [10:36:10] [Server thread/INFO]: Loading DevTools v1.11.3
+2017-05-07 [10:36:10] [Server thread/INFO]: Enabling DevTools v1.11.3
+2017-05-07 [10:36:10] [Server thread/INFO]: Loading source plugin iProtector v3.1b
+2017-05-07 [10:36:11] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2017-05-07 [10:36:11] [Server thread/INFO]: Preparing level "FamilyEd"
+2017-05-07 [10:36:11] [Server thread/INFO]: Enabling iProtector v3.1b
+2017-05-07 [10:36:11] [Server thread/INFO]: Starting GS4 status listener
+2017-05-07 [10:36:11] [Server thread/INFO]: Setting query port to 19132
+2017-05-07 [10:36:11] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2017-05-07 [10:36:11] [Server thread/INFO]: Default game type: Creative Mode
+2017-05-07 [10:36:11] [Server thread/INFO]: Done (0.308s)! For help, type "help" or "?"
+2017-05-07 [10:41:02] [Server thread/INFO]: mike[/192.168.0.12:19132] logged in with entity id 1 at (FamilyEd, 256.6014, 8.7485, 240.9562)
+2017-05-07 [10:41:04] [Server thread/INFO]: mike joined the game
+2017-05-07 [10:51:20] [Server thread/NOTICE]: Player data not found for "abby", creating new profile
+2017-05-07 [10:51:24] [Server thread/INFO]: Abby[/192.168.0.21:19132] logged in with entity id 2 at (FamilyEd, 256, 4, 256)
+2017-05-07 [10:51:26] [Server thread/INFO]: Abby joined the game
+2017-05-07 [10:56:06] [Server thread/INFO]: mike[/192.168.0.12:19132] logged out due to generic reason
+2017-05-07 [10:56:06] [Server thread/INFO]: Abby[/192.168.0.21:19132] logged out due to generic reason
+2017-05-07 [10:58:42] [Server thread/INFO]: Loading pocketmine.yml...
+2017-05-07 [10:58:42] [Server thread/INFO]: Loading server properties...
+2017-05-07 [10:58:42] [Server thread/INFO]: Selected English (eng) as the base language
+2017-05-07 [10:58:42] [Server thread/INFO]: Starting Minecraft: PE server version v1.0.7.0
+2017-05-07 [10:58:42] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2017-05-07 [10:58:42] [Server thread/INFO]: This server is running PocketMine-MP version 1.6.2dev-65 "Unleashed" (API 3.0.0-ALPHA5)
+2017-05-07 [10:58:42] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2017-05-07 [10:58:42] [Server thread/INFO]: Loading recipes...
+2017-05-07 [10:58:42] [Server thread/INFO]: Loading resource packs...
+2017-05-07 [10:58:42] [Server thread/INFO]: Loading DevTools v1.11.3
+2017-05-07 [10:58:42] [Server thread/INFO]: Enabling DevTools v1.11.3
+2017-05-07 [10:58:42] [Server thread/INFO]: Loading source plugin iProtector v3.1b
+2017-05-07 [10:58:42] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2017-05-07 [10:58:42] [Server thread/INFO]: Preparing level "FamilyEd"
+2017-05-07 [10:58:42] [Server thread/INFO]: Enabling iProtector v3.1b
+2017-05-07 [10:58:42] [RakLibServer thread/CRITICAL]: **** FAILED TO BIND TO 0.0.0.0:19132!
+2017-05-07 [10:58:42] [RakLibServer thread/CRITICAL]: Perhaps a server is already running on that port?
+2017-05-07 [10:58:42] [Server thread/EMERGENCY]: RakLib crashed!
+2017-05-07 [10:58:42] [Server thread/INFO]: Starting GS4 status listener
+2017-05-07 [10:58:42] [Server thread/INFO]: Setting query port to 19132
+2017-05-07 [10:58:42] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2017-05-07 [10:58:42] [Server thread/INFO]: Default game type: Creative Mode
+2017-05-07 [10:58:42] [Server thread/INFO]: Done (0.255s)! For help, type "help" or "?"
+2017-05-07 [10:58:42] [Server thread/CRITICAL]: [Network] Stopped interface pocketmine\network\mcpe\RakLibInterface due to RakLib Thread crashed
+2017-05-07 [10:59:13] [Server thread/INFO]: Loading pocketmine.yml...
+2017-05-07 [10:59:13] [Server thread/INFO]: Loading server properties...
+2017-05-07 [10:59:13] [Server thread/INFO]: Selected English (eng) as the base language
+2017-05-07 [10:59:13] [Server thread/INFO]: Starting Minecraft: PE server version v1.0.7.0
+2017-05-07 [10:59:13] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2017-05-07 [10:59:13] [Server thread/INFO]: This server is running PocketMine-MP version 1.6.2dev-65 "Unleashed" (API 3.0.0-ALPHA5)
+2017-05-07 [10:59:13] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2017-05-07 [10:59:13] [Server thread/INFO]: Loading recipes...
+2017-05-07 [10:59:13] [Server thread/INFO]: Loading resource packs...
+2017-05-07 [10:59:13] [Server thread/INFO]: Loading DevTools v1.11.3
+2017-05-07 [10:59:13] [Server thread/INFO]: Enabling DevTools v1.11.3
+2017-05-07 [10:59:13] [Server thread/INFO]: Loading source plugin iProtector v3.1b
+2017-05-07 [10:59:13] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2017-05-07 [10:59:13] [Server thread/INFO]: Preparing level "FamilyEd"
+2017-05-07 [10:59:13] [Server thread/INFO]: Enabling iProtector v3.1b
+2017-05-07 [10:59:13] [RakLibServer thread/CRITICAL]: **** FAILED TO BIND TO 0.0.0.0:19132!
+2017-05-07 [10:59:13] [RakLibServer thread/CRITICAL]: Perhaps a server is already running on that port?
+2017-05-07 [10:59:13] [Server thread/EMERGENCY]: RakLib crashed!
+2017-05-07 [10:59:13] [Server thread/INFO]: Starting GS4 status listener
+2017-05-07 [10:59:13] [Server thread/INFO]: Setting query port to 19132
+2017-05-07 [10:59:13] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2017-05-07 [10:59:13] [Server thread/INFO]: Default game type: Creative Mode
+2017-05-07 [10:59:13] [Server thread/INFO]: Done (0.303s)! For help, type "help" or "?"
+2017-05-07 [10:59:13] [Server thread/CRITICAL]: [Network] Stopped interface pocketmine\network\mcpe\RakLibInterface due to RakLib Thread crashed
+2017-05-07 [10:59:20] [Server thread/INFO]: Disabling DevTools v1.11.3
+2017-05-07 [10:59:20] [Server thread/INFO]: Disabling iProtector v3.1b
+2017-05-07 [10:59:20] [Server thread/INFO]: Unloading level "FamilyEd"
+2017-05-07 [10:59:25] [Server thread/INFO]: Stopping other threads
+2017-05-07 [11:00:09] [Server thread/INFO]: Loading pocketmine.yml...
+2017-05-07 [11:00:09] [Server thread/INFO]: Loading server properties...
+2017-05-07 [11:00:09] [Server thread/INFO]: Selected English (eng) as the base language
+2017-05-07 [11:00:09] [Server thread/INFO]: Starting Minecraft: PE server version v1.0.7.0
+2017-05-07 [11:00:09] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2017-05-07 [11:00:09] [Server thread/INFO]: This server is running PocketMine-MP version 1.6.2dev-65 "Unleashed" (API 3.0.0-ALPHA5)
+2017-05-07 [11:00:09] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2017-05-07 [11:00:09] [Server thread/INFO]: Loading recipes...
+2017-05-07 [11:00:09] [Server thread/INFO]: Loading resource packs...
+2017-05-07 [11:00:09] [Server thread/INFO]: Loading DevTools v1.11.3
+2017-05-07 [11:00:09] [Server thread/INFO]: Enabling DevTools v1.11.3
+2017-05-07 [11:00:09] [Server thread/INFO]: Loading source plugin iProtector v3.1b
+2017-05-07 [11:00:09] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2017-05-07 [11:00:09] [Server thread/INFO]: Preparing level "FamilyEd"
+2017-05-07 [11:00:09] [Server thread/INFO]: Enabling iProtector v3.1b
+2017-05-07 [11:00:09] [Server thread/INFO]: Starting GS4 status listener
+2017-05-07 [11:00:09] [Server thread/INFO]: Setting query port to 19132
+2017-05-07 [11:00:09] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2017-05-07 [11:00:09] [Server thread/INFO]: Default game type: Creative Mode
+2017-05-07 [11:00:09] [Server thread/INFO]: Done (0.297s)! For help, type "help" or "?"
+2017-05-07 [11:00:32] [Server thread/INFO]: Abby[/192.168.0.21:19132] logged in with entity id 1 at (FamilyEd, 261.4483, 12.1259, 223.2822)
+2017-05-07 [11:00:33] [Server thread/INFO]: Abby joined the game
+2017-05-07 [11:00:35] [Server thread/INFO]: mike[/192.168.0.12:19132] logged in with entity id 2 at (FamilyEd, 259.3001, 3, 235.4382)
+2017-05-07 [11:00:37] [Server thread/INFO]: mike joined the game
+2017-05-07 [12:30:00] [Server thread/INFO]: Steve[/192.168.0.24:19132] logged in with entity id 14 at (FamilyEd, 269.556, 2, 243.1417)
+2017-05-07 [12:30:01] [Server thread/INFO]: Steve joined the game
+2017-05-07 [12:36:24] [Server thread/INFO]: mike left the game
+2017-05-07 [12:36:24] [Server thread/INFO]: mike[/192.168.0.12:19132] logged out due to client disconnect
+2017-05-07 [12:51:51] [Server thread/INFO]: mike[/192.168.0.12:19132] logged in with entity id 34 at (FamilyEd, 300.278, 4.9985, 243.0037)
+2017-05-07 [12:51:53] [Server thread/INFO]: mike joined the game
+2017-05-07 [12:53:05] [Server thread/INFO]: Abby[/192.168.0.21:19132] logged out due to generic reason
+2017-05-07 [12:53:05] [Server thread/INFO]: mike[/192.168.0.12:19132] logged out due to generic reason
+2017-05-07 [12:53:05] [Server thread/INFO]: Steve[/192.168.0.24:19132] logged out due to generic reason
+2017-05-07 [13:33:02] [Server thread/INFO]: Loading pocketmine.yml...
+2017-05-07 [13:33:02] [Server thread/INFO]: Loading server properties...
+2017-05-07 [13:33:02] [Server thread/INFO]: Selected English (eng) as the base language
+2017-05-07 [13:33:02] [Server thread/INFO]: Starting Minecraft: PE server version v1.0.7.0
+2017-05-07 [13:33:02] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2017-05-07 [13:33:03] [Server thread/INFO]: This server is running PocketMine-MP version 1.6.2dev-65 "Unleashed" (API 3.0.0-ALPHA5)
+2017-05-07 [13:33:03] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2017-05-07 [13:33:03] [Server thread/INFO]: Loading recipes...
+2017-05-07 [13:33:03] [Server thread/INFO]: Loading resource packs...
+2017-05-07 [13:33:03] [Server thread/INFO]: Loading DevTools v1.11.3
+2017-05-07 [13:33:03] [Server thread/INFO]: Enabling DevTools v1.11.3
+2017-05-07 [13:33:03] [Server thread/INFO]: Loading source plugin iProtector v3.1b
+2017-05-07 [13:33:03] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2017-05-07 [13:33:03] [Server thread/INFO]: Preparing level "FamilyEd"
+2017-05-07 [13:33:03] [Server thread/INFO]: Enabling iProtector v3.1b
+2017-05-07 [13:33:03] [Server thread/INFO]: Starting GS4 status listener
+2017-05-07 [13:33:03] [Server thread/INFO]: Setting query port to 19132
+2017-05-07 [13:33:03] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2017-05-07 [13:33:03] [Server thread/INFO]: Default game type: Creative Mode
+2017-05-07 [13:33:03] [Server thread/INFO]: Done (0.291s)! For help, type "help" or "?"
+2017-05-07 [13:34:36] [Server thread/NOTICE]: Player data not found for "ellie", creating new profile
+2017-05-07 [13:34:40] [Server thread/INFO]: Ellie[/192.168.0.21:19132] logged in with entity id 1 at (FamilyEd, 256, 4, 256)
+2017-05-07 [13:34:41] [Server thread/INFO]: Ellie joined the game
+2017-05-07 [13:34:57] [Server thread/INFO]: mike[/192.168.0.12:19132] logged in with entity id 3 at (FamilyEd, 297.0785, 4, 236.8567)
+2017-05-07 [13:34:59] [Server thread/INFO]: mike joined the game
+2017-05-07 [13:40:17] [Server thread/INFO]: <mike> hi
+2017-05-07 [13:45:48] [Server thread/INFO]: mike fell out of the world
+2017-05-07 [13:47:11] [Server thread/INFO]: mike fell out of the world
+2017-05-07 [13:47:53] [Server thread/INFO]: mike fell out of the world
+2017-05-07 [13:48:01] [Server thread/INFO]: mike fell out of the world
+2017-05-07 [13:48:11] [Server thread/INFO]: mike fell out of the world
+2017-05-07 [13:48:19] [Server thread/INFO]: mike fell out of the world
+2017-05-07 [13:48:27] [Server thread/INFO]: mike fell out of the world
+2017-05-07 [13:50:20] [Server thread/INFO]: mike fell out of the world
+2017-05-07 [13:50:26] [Server thread/INFO]: mike fell out of the world
+2017-05-07 [13:50:31] [Server thread/INFO]: mike fell out of the world
+2017-05-07 [13:50:36] [Server thread/INFO]: mike fell out of the world
+2017-05-07 [13:59:02] [Server thread/NOTICE]: Player data not found for "sinner", creating new profile
+2017-05-07 [13:59:13] [Server thread/INFO]: Sinner[/192.168.0.22:19132] logged in with entity id 14 at (FamilyEd, 256, 4, 256)
+2017-05-07 [13:59:15] [Server thread/INFO]: Sinner joined the game
+2017-05-07 [13:59:42] [Server thread/INFO]: Sinner left the game
+2017-05-07 [13:59:42] [Server thread/INFO]: Sinner[/192.168.0.22:19132] logged out due to client disconnect
+2017-05-07 [13:59:43] [Server thread/INFO]: <Ellie> dad it worked
+2017-05-07 [13:59:56] [Server thread/INFO]: <Ellie> never mind
+2017-05-07 [14:00:04] [Server thread/INFO]: mike left the game
+2017-05-07 [14:00:04] [Server thread/INFO]: mike[/192.168.0.12:19132] logged out due to timeout
+2017-05-07 [14:01:31] [Server thread/INFO]: mike[/192.168.0.12:19132] logged in with entity id 15 at (FamilyEd, 255.9846, 4, 241.3393)
+2017-05-07 [14:01:33] [Server thread/INFO]: mike joined the game
+2017-05-07 [14:01:52] [Server thread/INFO]: <Ellie> who are you?
+2017-05-07 [14:02:09] [Server thread/INFO]: <mike> this is dad
+2017-05-07 [14:02:22] [Server thread/INFO]: <Ellie> ok, hi
+2017-05-07 [14:06:48] [Server thread/INFO]: mike left the game
+2017-05-07 [14:06:48] [Server thread/INFO]: mike[/192.168.0.12:19132] logged out due to timeout
+2017-05-07 [14:07:20] [Server thread/INFO]: mike[/192.168.0.12:19132] logged in with entity id 18 at (FamilyEd, 267.7069, 4, 223.8029)
+2017-05-07 [14:07:22] [Server thread/INFO]: mike joined the game
+2017-05-07 [14:11:55] [Server thread/INFO]: Ellie fell out of the world
+2017-05-07 [14:31:43] [Server thread/INFO]: Ellie left the game
+2017-05-07 [14:31:43] [Server thread/INFO]: Ellie[/192.168.0.21:19132] logged out due to client disconnect
+2017-05-07 [14:43:46] [Server thread/INFO]: mike left the game
+2017-05-07 [14:43:46] [Server thread/INFO]: mike[/192.168.0.12:19132] logged out due to client disconnect
+2017-05-07 [14:48:38] [Server thread/INFO]: mike[/192.168.0.12:19132] logged in with entity id 262 at (FamilyEd, 243.7105, 12.8735, 213.1246)
+2017-05-07 [14:48:40] [Server thread/INFO]: mike joined the game
+2017-05-07 [15:00:58] [Server thread/INFO]: mike left the game
+2017-05-07 [15:00:58] [Server thread/INFO]: mike[/192.168.0.12:19132] logged out due to client disconnect
+2017-05-07 [15:01:08] [Server thread/INFO]: Disabling DevTools v1.11.3
+2017-05-07 [15:01:08] [Server thread/INFO]: Disabling iProtector v3.1b
+2017-05-07 [15:01:08] [Server thread/INFO]: Unloading level "FamilyEd"
+2017-05-07 [15:01:13] [Server thread/INFO]: Stopping other threads
