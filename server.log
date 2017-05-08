@@ -1206,3 +1206,99 @@
 2017-05-07 [23:58:15] [Server thread/INFO]: Disabling iProtector v3.1b
 2017-05-07 [23:58:15] [Server thread/INFO]: Unloading level "FamilyEd"
 2017-05-07 [23:58:20] [Server thread/INFO]: Stopping other threads
+2017-05-08 [10:36:03] [Server thread/INFO]: Loading pocketmine.yml...
+2017-05-08 [10:36:03] [Server thread/INFO]: Loading server properties...
+2017-05-08 [10:36:03] [Server thread/INFO]: Selected English (eng) as the base language
+2017-05-08 [10:36:03] [Server thread/INFO]: Starting Minecraft: PE server version v1.0.7.0
+2017-05-08 [10:36:03] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2017-05-08 [10:36:03] [Server thread/INFO]: This server is running PocketMine-MP version 1.6.2dev-65 "Unleashed" (API 3.0.0-ALPHA5)
+2017-05-08 [10:36:03] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2017-05-08 [10:36:03] [Server thread/INFO]: Loading recipes...
+2017-05-08 [10:36:03] [Server thread/INFO]: Loading resource packs...
+2017-05-08 [10:36:03] [Server thread/INFO]: Loading DevTools v1.11.3
+2017-05-08 [10:36:03] [Server thread/INFO]: Enabling DevTools v1.11.3
+2017-05-08 [10:36:03] [Server thread/INFO]: Loading source plugin WorldEditor v1.0.3-0.1
+2017-05-08 [10:36:03] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2017-05-08 [10:36:03] [Server thread/INFO]: Preparing level "FamilyEd"
+2017-05-08 [10:36:03] [Server thread/INFO]: Enabling WorldEditor v1.0.3-0.1
+2017-05-08 [10:36:03] [Server thread/INFO]: Starting GS4 status listener
+2017-05-08 [10:36:03] [Server thread/INFO]: Setting query port to 19132
+2017-05-08 [10:36:03] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2017-05-08 [10:36:03] [Server thread/INFO]: Default game type: Creative Mode
+2017-05-08 [10:36:03] [Server thread/INFO]: Done (0.249s)! For help, type "help" or "?"
+2017-05-08 [11:46:19] [Server thread/INFO]: mike[/10.0.212.70:19132] logged in with entity id 1 at (FamilyEd, 254.8394, 5.1661, 193.5526)
+2017-05-08 [11:46:20] [Server thread/INFO]: mike joined the game
+2017-05-08 [11:49:25] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+2017-05-08 [11:49:29] [Server thread/INFO]: Please run this command in-game.
+2017-05-08 [11:49:29] [Server thread/INFO]: Usage: //pos1
+2017-05-08 [11:55:10] [Server thread/INFO]: mike left the game
+2017-05-08 [11:55:10] [Server thread/INFO]: mike[/10.0.212.70:19132] logged out due to client disconnect
+2017-05-08 [13:35:00] [Server thread/INFO]: FamilyEd05[/10.0.81.247:19132] logged in with entity id 83 at (FamilyEd, 258.5968, 4, 250.7978)
+2017-05-08 [13:35:01] [Server thread/INFO]: FamilyEd05 joined the game
+2017-05-08 [13:38:53] [Server thread/INFO]: FamilyEd05 left the game
+2017-05-08 [13:38:53] [Server thread/INFO]: FamilyEd05[/10.0.81.247:19132] logged out due to client disconnect
+2017-05-08 [13:42:50] [Server thread/INFO]: FamilyEd05[/10.0.81.247:19132] logged in with entity id 116 at (FamilyEd, 135.209, 4, 282.0135)
+2017-05-08 [13:42:51] [Server thread/INFO]: FamilyEd05 joined the game
+2017-05-08 [13:47:41] [Server thread/INFO]: FamilyEd05 left the game
+2017-05-08 [13:47:41] [Server thread/INFO]: FamilyEd05[/10.0.81.247:19132] logged out due to client disconnect
+2017-05-08 [13:52:48] [Server thread/INFO]: FamilyEd05[/10.0.81.247:19132] logged in with entity id 121 at (FamilyEd, 569.2124, 15.429, 495.3284)
+2017-05-08 [13:52:49] [Server thread/INFO]: FamilyEd05 joined the game
+2017-05-08 [13:57:20] [Server thread/INFO]: FamilyEd05 left the game
+2017-05-08 [13:57:20] [Server thread/INFO]: FamilyEd05[/10.0.81.247:19132] logged out due to client disconnect
+2017-05-08 [16:02:45] [Server thread/INFO]: Disabling DevTools v1.11.3
+2017-05-08 [16:02:45] [Server thread/INFO]: Disabling WorldEditor v1.0.3-0.1
+2017-05-08 [16:02:45] [Server thread/INFO]: Unloading level "FamilyEd"
+2017-05-08 [16:02:50] [Server thread/INFO]: Stopping other threads
+2017-05-08 [16:02:52] [Server thread/INFO]: Loading pocketmine.yml...
+2017-05-08 [16:02:52] [Server thread/INFO]: Loading server properties...
+2017-05-08 [16:02:52] [Server thread/INFO]: Selected English (eng) as the base language
+2017-05-08 [16:02:52] [Server thread/INFO]: Starting Minecraft: PE server version v1.0.7.0
+2017-05-08 [16:02:52] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2017-05-08 [16:02:52] [Server thread/INFO]: This server is running PocketMine-MP version 1.6.2dev-65 "Unleashed" (API 3.0.0-ALPHA5)
+2017-05-08 [16:02:52] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2017-05-08 [16:02:52] [Server thread/INFO]: Loading recipes...
+2017-05-08 [16:02:52] [Server thread/INFO]: Loading resource packs...
+2017-05-08 [16:02:52] [Server thread/INFO]: Loading DevTools v1.11.3
+2017-05-08 [16:02:52] [Server thread/INFO]: Enabling DevTools v1.11.3
+2017-05-08 [16:02:52] [Server thread/INFO]: Loading source plugin WorldEditor v1.0.3-0.1
+2017-05-08 [16:02:52] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2017-05-08 [16:02:52] [Server thread/INFO]: Preparing level "FamilyEd"
+2017-05-08 [16:02:52] [Server thread/INFO]: Enabling WorldEditor v1.0.3-0.1
+2017-05-08 [16:02:52] [Server thread/INFO]: Starting GS4 status listener
+2017-05-08 [16:02:52] [Server thread/INFO]: Setting query port to 19132
+2017-05-08 [16:02:52] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2017-05-08 [16:02:52] [Server thread/INFO]: Default game type: Creative Mode
+2017-05-08 [16:02:52] [Server thread/INFO]: Done (0.244s)! For help, type "help" or "?"
+2017-05-08 [16:04:58] [Server thread/INFO]: Disabling DevTools v1.11.3
+2017-05-08 [16:04:58] [Server thread/INFO]: Disabling WorldEditor v1.0.3-0.1
+2017-05-08 [16:04:58] [Server thread/INFO]: mike[/10.0.212.70:19132] logged out due to Server closed
+2017-05-08 [16:04:58] [Server thread/INFO]: Unloading level "FamilyEd"
+2017-05-08 [16:05:03] [Server thread/INFO]: Stopping other threads
+2017-05-08 [16:05:45] [Server thread/INFO]: Loading pocketmine.yml...
+2017-05-08 [16:05:45] [Server thread/INFO]: Loading server properties...
+2017-05-08 [16:05:45] [Server thread/INFO]: Selected English (eng) as the base language
+2017-05-08 [16:05:45] [Server thread/INFO]: Starting Minecraft: PE server version v1.0.7.0
+2017-05-08 [16:05:45] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2017-05-08 [16:05:45] [Server thread/INFO]: This server is running PocketMine-MP version 1.6.2dev-65 "Unleashed" (API 3.0.0-ALPHA5)
+2017-05-08 [16:05:45] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2017-05-08 [16:05:45] [Server thread/INFO]: Loading recipes...
+2017-05-08 [16:05:45] [Server thread/INFO]: Loading resource packs...
+2017-05-08 [16:05:45] [Server thread/INFO]: Loading DevTools v1.11.3
+2017-05-08 [16:05:45] [Server thread/INFO]: Enabling DevTools v1.11.3
+2017-05-08 [16:05:45] [Server thread/INFO]: Loading source plugin WorldEditor v1.0.3-0.1
+2017-05-08 [16:05:45] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2017-05-08 [16:05:45] [Server thread/INFO]: Preparing level "FamilyEd"
+2017-05-08 [16:05:45] [Server thread/INFO]: Enabling WorldEditor v1.0.3-0.1
+2017-05-08 [16:05:45] [Server thread/INFO]: Starting GS4 status listener
+2017-05-08 [16:05:45] [Server thread/INFO]: Setting query port to 19132
+2017-05-08 [16:05:45] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2017-05-08 [16:05:45] [Server thread/INFO]: Default game type: Creative Mode
+2017-05-08 [16:05:45] [Server thread/INFO]: Done (0.244s)! For help, type "help" or "?"
+2017-05-08 [16:06:02] [Server thread/INFO]: mike[/10.0.212.70:19132] logged in with entity id 1 at (FamilyEd, 257.0562, 9.753, 176.4248)
+2017-05-08 [16:06:04] [Server thread/INFO]: mike joined the game
+2017-05-08 [16:08:51] [Server thread/INFO]: mike left the game
+2017-05-08 [16:08:51] [Server thread/INFO]: mike[/10.0.212.70:19132] logged out due to client disconnect
+2017-05-08 [16:08:59] [Server thread/INFO]: Disabling DevTools v1.11.3
+2017-05-08 [16:08:59] [Server thread/INFO]: Disabling WorldEditor v1.0.3-0.1
+2017-05-08 [16:08:59] [Server thread/INFO]: Unloading level "FamilyEd"
+2017-05-08 [16:09:04] [Server thread/INFO]: Stopping other threads
