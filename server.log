@@ -1302,3 +1302,77 @@
 2017-05-08 [16:08:59] [Server thread/INFO]: Disabling WorldEditor v1.0.3-0.1
 2017-05-08 [16:08:59] [Server thread/INFO]: Unloading level "FamilyEd"
 2017-05-08 [16:09:04] [Server thread/INFO]: Stopping other threads
+2017-05-08 [16:59:18] [Server thread/INFO]: Loading pocketmine.yml...
+2017-05-08 [16:59:18] [Server thread/INFO]: Loading server properties...
+2017-05-08 [16:59:18] [Server thread/INFO]: Selected English (eng) as the base language
+2017-05-08 [16:59:18] [Server thread/INFO]: Starting Minecraft: PE server version v1.0.7.0
+2017-05-08 [16:59:18] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2017-05-08 [16:59:18] [Server thread/INFO]: This server is running PocketMine-MP version 1.6.2dev-65 "Unleashed" (API 3.0.0-ALPHA5)
+2017-05-08 [16:59:18] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2017-05-08 [16:59:18] [Server thread/INFO]: Loading recipes...
+2017-05-08 [16:59:18] [Server thread/INFO]: Loading resource packs...
+2017-05-08 [16:59:18] [Server thread/INFO]: Loading DevTools v1.11.3
+2017-05-08 [16:59:18] [Server thread/INFO]: Enabling DevTools v1.11.3
+2017-05-08 [16:59:18] [Server thread/INFO]: Loading source plugin WorldEditor v1.0.3-0.1
+2017-05-08 [16:59:18] [Server thread/INFO]: Loading source plugin iProtector v3.1b
+2017-05-08 [16:59:18] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2017-05-08 [16:59:18] [Server thread/INFO]: Preparing level "FamilyEd"
+2017-05-08 [16:59:18] [Server thread/INFO]: Enabling WorldEditor v1.0.3-0.1
+2017-05-08 [16:59:18] [Server thread/INFO]: Enabling iProtector v3.1b
+2017-05-08 [16:59:18] [Server thread/INFO]: Starting GS4 status listener
+2017-05-08 [16:59:18] [Server thread/INFO]: Setting query port to 19132
+2017-05-08 [16:59:18] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2017-05-08 [16:59:18] [Server thread/INFO]: Default game type: Creative Mode
+2017-05-08 [16:59:18] [Server thread/INFO]: Done (0.322s)! For help, type "help" or "?"
+2017-05-08 [17:00:28] [Server thread/INFO]: Sinner[/192.168.0.22:19132] logged in with entity id 1 at (FamilyEd, 254.1728, 4.554, 244.3961)
+2017-05-08 [17:00:30] [Server thread/INFO]: Sinner joined the game
+2017-05-08 [17:00:46] [Server thread/INFO]: Ellie[/192.168.0.21:19132] logged in with entity id 6 at (FamilyEd, 251.1047, 11.753, 268.6969)
+2017-05-08 [17:00:47] [Server thread/INFO]: Ellie joined the game
+2017-05-08 [17:17:08] [Server thread/INFO]: FamilyEd03[/192.168.0.31:19132] logged in with entity id 89 at (FamilyEd, 255.7842, 4, 256.0038)
+2017-05-08 [17:17:09] [Server thread/INFO]: FamilyEd03 joined the game
+2017-05-08 [17:17:22] [Server thread/WARNING]: Sinner moved too fast, reverting movement
+2017-05-08 [17:17:24] [Server thread/WARNING]: Sinner moved too fast, reverting movement
+2017-05-08 [17:20:35] [Server thread/INFO]: FamilyEd09[/192.168.0.32:19132] logged in with entity id 116 at (FamilyEd, 253.4097, 4, 247.4487)
+2017-05-08 [17:20:36] [Server thread/INFO]: FamilyEd09 joined the game
+2017-05-08 [17:20:59] [Server thread/WARNING]: Sinner moved too fast, reverting movement
+2017-05-08 [17:43:00] [Server thread/WARNING]: Sinner moved too fast, reverting movement
+2017-05-08 [17:43:47] [Server thread/WARNING]: Sinner moved too fast, reverting movement
+2017-05-08 [17:43:58] [Server thread/WARNING]: Sinner moved too fast, reverting movement
+2017-05-08 [17:44:16] [Server thread/WARNING]: Sinner moved too fast, reverting movement
+2017-05-08 [17:44:52] [Server thread/WARNING]: Sinner moved too fast, reverting movement
+2017-05-08 [17:45:50] [Server thread/INFO]: Sinner left the game
+2017-05-08 [17:45:50] [Server thread/INFO]: Sinner[/192.168.0.22:19132] logged out due to timeout
+2017-05-08 [17:48:56] [Server thread/WARNING]: FamilyEd03 moved too fast, reverting movement
+2017-05-08 [17:51:28] [Server thread/INFO]: FamilyEd09 left the game
+2017-05-08 [17:51:28] [Server thread/INFO]: FamilyEd09[/192.168.0.32:19132] logged out due to client disconnect
+2017-05-08 [18:29:20] [Server thread/INFO]: FamilyEd03 left the game
+2017-05-08 [18:29:20] [Server thread/INFO]: FamilyEd03[/192.168.0.31:19132] logged out due to client disconnect
+2017-05-08 [18:30:14] [Server thread/INFO]: FamilyEd03[/192.168.0.31:19132] logged in with entity id 349 at (FamilyEd, 253.997, 8, 168.912)
+2017-05-08 [18:30:15] [Server thread/INFO]: FamilyEd03 joined the game
+2017-05-08 [18:36:09] [Server thread/INFO]: Ellie left the game
+2017-05-08 [18:36:09] [Server thread/INFO]: Ellie[/192.168.0.21:19132] logged out due to client disconnect
+2017-05-08 [18:36:36] [Server thread/INFO]: admin[/192.168.0.21:19132] logged in with entity id 379 at (FamilyEd, 288.224, 3, 201.2451)
+2017-05-08 [18:36:38] [Server thread/INFO]: admin joined the game
+2017-05-08 [18:50:19] [Server thread/INFO]: admin left the game
+2017-05-08 [18:50:19] [Server thread/INFO]: admin[/192.168.0.21:19132] logged out due to client disconnect
+2017-05-08 [18:52:03] [Server thread/INFO]: FamilyEd03 left the game
+2017-05-08 [18:52:03] [Server thread/INFO]: FamilyEd03[/192.168.0.31:19132] logged out due to client disconnect
+2017-05-08 [19:51:08] [Server thread/INFO]: Sinner[/192.168.0.22:19132] logged in with entity id 484 at (FamilyEd, 278.9675, 4, 215.5879)
+2017-05-08 [19:51:11] [Server thread/INFO]: Sinner joined the game
+2017-05-08 [19:54:35] [Server thread/WARNING]: Sinner moved too fast, reverting movement
+2017-05-08 [19:55:07] [Server thread/INFO]: Sinner left the game
+2017-05-08 [19:55:07] [Server thread/INFO]: Sinner[/192.168.0.22:19132] logged out due to client disconnect
+2017-05-08 [20:03:17] [Server thread/INFO]: admin[/192.168.0.21:19132] logged in with entity id 515 at (FamilyEd, 297.9135, 6.003, 138.8372)
+2017-05-08 [20:03:19] [Server thread/INFO]: admin joined the game
+2017-05-08 [20:35:41] [Server thread/INFO]: Sinner[/192.168.0.22:19132] logged in with entity id 704 at (FamilyEd, 254.6964, 4, 204.5199)
+2017-05-08 [20:35:44] [Server thread/INFO]: Sinner joined the game
+2017-05-08 [20:36:14] [Server thread/INFO]: admin left the game
+2017-05-08 [20:36:14] [Server thread/INFO]: admin[/192.168.0.21:19132] logged out due to client disconnect
+2017-05-08 [20:36:28] [Server thread/INFO]: admin[/192.168.0.21:19132] logged in with entity id 705 at (FamilyEd, 255.783, 15.1235, 169.7132)
+2017-05-08 [20:36:29] [Server thread/INFO]: admin joined the game
+2017-05-08 [20:42:38] [Server thread/INFO]: Sinner left the game
+2017-05-08 [20:42:38] [Server thread/INFO]: Sinner[/192.168.0.22:19132] logged out due to client disconnect
+2017-05-08 [21:12:47] [Server thread/INFO]: admin fell out of the world
+2017-05-08 [21:13:46] [Server thread/INFO]: admin fell out of the world
+2017-05-08 [22:22:04] [Server thread/INFO]: admin left the game
+2017-05-08 [22:22:04] [Server thread/INFO]: admin[/192.168.0.21:19132] logged out due to client disconnect
